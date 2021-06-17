@@ -52,7 +52,7 @@ int main()
  
     sort(arr, n);
  
-    cout << "array after segregation ";
+    cout << "array after segregation "<<endl;
  
     printArray(arr, n);
  
